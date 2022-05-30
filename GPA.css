@@ -157,7 +157,7 @@
     }
     .row-1-gpa
 {
-    margin-top: 120px;
+    margin-top: 150px;
     height:190vh;
     width: 90%;
     display: flex;
@@ -167,7 +167,7 @@
 }
 .form-gpa
 {
-    height: 150vh;
+    height: 190vh;
     margin-top: 20px;
     background-color:rgb(4, 160, 165) ;
     margin-left: 35px;
